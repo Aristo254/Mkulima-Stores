@@ -1,0 +1,93 @@
+.minion{
+    background-color: rgb(6, 161, 6);
+    color: whitesmoke;
+    font-family: helvetica;
+}
+#para1{
+    font-family: roboto;
+    margin: 15px 10px;
+    color: green;
+    text-align: justify;
+    border: solid green;
+    border-radius: 10px;
+    padding: 10px 15px;
+}
+body{
+    background-color: lightgreen;
+}
+#cow{
+    border: solid 2px blueviolet;
+    border-radius: 20px;
+}
+#paras{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: red;
+    font-weight: bolder;
+}
+#liwan, #litu{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+#lithri, #lifo{
+    font-family: monoLisa ;
+    font-weight: bold;
+    color: rebeccapurple;
+}
+#paralast{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+    font-weight: bold;
+    font-style: italic;
+}
+#condas{
+    color: brown;
+    /* border: solid black 2px;
+    border-radius: 15px; */
+    width: 100%;
+    
+}
+.mt{
+    margin-top: 80px;
+}
+#paralast{
+    text-align: center;
+}
+hr{
+    border: solid blueviolet 1px;
+}
+#yutu{
+    width: 100%;
+}
+#parapap{
+    margin: 10px 30px;
+    padding: 45px;
+    text-align: justify;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+#paraz{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blueviolet;
+}
+#kamau{
+    border: solid 1px blue;
+    border-radius: 30px;
+    margin: 5px 0px 10px 50px;
+}
+#payoo{
+    margin: 15px 30px;
+    padding: 70px;
+}
+#payoyo{
+    border: solid 2px green;
+    border-radius: 20px;
+}
+#yutubu, #konta, #loco{
+border: solid 2px black;
+border-radius: 30px;
+margin:0px 0px 1px;
+}
+/* img{
+    object-fit: contain;
+} */
